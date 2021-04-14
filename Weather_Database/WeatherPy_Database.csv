@@ -1,0 +1,630 @@
+City ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Katsuura,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+1,Bourg-En-Bresse,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+2,Florenville,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+3,Ligayan,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+4,Cape Town,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+5,Acarau,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+6,East London,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+7,Boysun,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+8,Mataura,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+9,Ushuaia,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+10,Dunedin,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+11,Grindavik,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+12,Arauca,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+13,Taolanaro,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+14,La Tuque,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+15,Ugoofaaru,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+16,Bargal,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+17,Mys Shmidta,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+18,Acapulco,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+19,Upernavik,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+20,Kalmunai,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+21,Hilo,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+22,Busselton,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+23,Arraial Do Cabo,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+24,Pioner,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+25,Castro,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+26,Kyren,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+27,Akhtanizovskaya,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+28,Anloga,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+29,Albany,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+30,Bredasdorp,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+31,Nemuro,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+32,New Norfolk,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+33,Carnarvon,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+34,Aklavik,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+35,Samusu,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+36,Moroni,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+37,Naze,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+38,Grand Centre,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+39,Hamilton,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+40,Karaul,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+41,Kavieng,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+42,Padang,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+43,Sri Aman,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+44,Havre-Saint-Pierre,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+45,Pithoragarh,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+46,Port Lincoln,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+47,Tupang,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+48,Saldanha,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+49,Galle,PF,-23.1203,-134.9692,77.23,73,7,6.76,clear sky
+50,Pisco,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+51,Chukhloma,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+52,Satitoa,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+53,Fuerte Olimpo,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+54,Vaini,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+55,Soligalich,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+56,Rikitea,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+57,Torbay,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+58,Gallipoli,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+59,Leshukonskoye,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+60,Kahului,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+61,Hithadhoo,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+62,Salisbury,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+63,Sur,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+64,Fortuna,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+65,Bonavista,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+66,Sulangan,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+67,Belushya Guba,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+68,Iqaluit,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+69,Porto Novo,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+70,Talnakh,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+71,Palauig,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+72,Bluff,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+73,Yellowknife,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+74,Qaanaaq,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+75,Namatanai,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+76,Mar Del Plata,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+77,Labuhan,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+78,Kodiak,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+79,Caravelas,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+80,Tura,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+81,Dikson,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+82,Haines Junction,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+83,Brigantine,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+84,Lixourion,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+85,Kauhajoki,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+86,Fairbanks,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+87,Avarua,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+88,Sentyabrskiy,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+89,Kapaa,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+90,Aleksandrov Gay,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+91,Touros,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+92,Hermanus,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+93,Safaga,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+94,Lata,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+95,Port Alfred,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+96,Barentsburg,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+97,Burnie,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+98,Hobart,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+99,Samalaeulu,PE,-13.7,-76.2167,71.6,73,49,5.75,scattered clouds
+100,Allonnes,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+101,Codrington,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+102,Sao Filipe,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+103,Khatanga,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+104,Atuona,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+105,Maniitsoq,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+106,Port Elizabeth,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+107,Saint-Philippe,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+108,Cagayan De Tawi-Tawi,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+109,Pemangkat,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+110,Georgetown,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+111,Smolenka,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+112,Avera,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+113,Faya,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+114,Abeche,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+115,Alofi,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+116,Umzimvubu,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+117,Souris,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+118,Taltal,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+119,Thompson,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+120,Synya,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+121,Zavetnoye,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+122,Anadyr,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+123,Kaitangata,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+124,Punta Arenas,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+125,Dahuk,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+126,Liverpool,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+127,Azare,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+128,Deputatskiy,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+129,Kampene,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+130,Jamestown,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+131,Oussouye,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+132,Balimo,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+133,Balkanabat,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+134,Tuatapere,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+135,Saint George,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+136,Richards Bay,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+137,Miri,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+138,Lorengau,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+139,Flinders,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+140,Barrow,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+141,Lujiang,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+142,Daru,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+143,Leningradskiy,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+144,Whyalla,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+145,Garowe,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+146,Tigil,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+147,Turukhansk,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+148,Nioro,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+149,Tuktoyaktuk,FR,47.9674,0.1581,53.6,32,75,14.97,broken clouds
+150,San Cristobal,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+151,Sinnamary,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+152,San Carlos De Bariloche,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+153,Rocha,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+154,Ilulissat,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+155,Ginir,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+156,Redmond,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+157,Louisbourg,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+158,Bolgatanga,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+159,Nizhneyansk,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+160,Klaksvik,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+161,Pevek,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+162,Sovetskiy,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+163,Solhan,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+164,Namibe,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+165,Coahuayana,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+166,Vardo,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+167,Nanortalik,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+168,Gornopravdinsk,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+169,Poso,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+170,Amderma,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+171,Mankono,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+172,Kiama,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+173,Bethel,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+174,Los Llanos De Aridane,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+175,Nikolskoye,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+176,Panama City,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+177,Sosnovo-Ozerskoye,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+178,Comodoro Rivadavia,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+179,Nouadhibou,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+180,Henties Bay,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+181,Pedernales,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+182,Aswan,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+183,Najran,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+184,Maralal,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+185,Souillac,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+186,Camopi,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+187,Butaritari,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+188,Grand River South East,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+189,Chuy,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+190,Belmonte,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+191,Sisimiut,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+192,Illoqqortoormiut,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+193,The Pas,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+194,Provideniya,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+195,Komsomolskiy,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+196,Clyde River,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+197,Ayan,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+198,Tamandare,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+199,Nuuk,VE,7.7669,-72.225,84.2,61,40,4.61,scattered clouds
+200,Baneh,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+201,Villanueva De Cordoba,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+202,Tumannyy,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+203,Cidreira,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+204,Tabas,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+205,Carutapera,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+206,Kisangani,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+207,Puerto Ayora,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+208,Seoul,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+209,Piltene,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+210,Nador,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+211,Longyearbyen,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+212,Faanui,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+213,Ribeira Grande,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+214,Tarakan,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+215,Tongren,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+216,Korla,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+217,Vorkuta,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+218,Cherskiy,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+219,Buin,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+220,Maridi,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+221,Nalut,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+222,Poum,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+223,Cockburn Town,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+224,Daur,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+225,Victoria,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+226,Tazovskiy,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+227,Howard Springs,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+228,Jiancheng,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+229,Grimsby,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+230,Lasa,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+231,Tsihombe,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+232,Aviles,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+233,Selfoss,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+234,Hue,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+235,Pierre,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+236,Bengkulu,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+237,Waipawa,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+238,Lokachi,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+239,Conakry,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+240,Sola,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+241,Gwanda,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+242,Vyartsilya,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+243,Pychas,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+244,Hirara,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+245,Muroto,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+246,Ponta Do Sol,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+247,Yining,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+248,Vila Franca Do Campo,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+249,Lebu,IR,35.9975,45.8853,48.31,44,0,4.07,clear sky
+250,Tiksi,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+251,Kamaishi,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+252,Hasaki,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+253,Bandarbeyla,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+254,Nis,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+255,Bani,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+256,Bathsheba,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+257,Kidal,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+258,Dingle,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+259,Shache,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+260,Westport,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+261,Severo-Kurilsk,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+262,Dosso,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+263,Jinka,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+264,Nara,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+265,Cururupu,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+266,Presidencia Roque Saenz Pena,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+267,Mrirt,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+268,Vestmanna,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+269,Norman Wells,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+270,Aripuana,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+271,Bedesa,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+272,Saskylakh,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+273,Iacu,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+274,Cuenca,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+275,Salalah,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+276,Aksarka,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+277,Barhiya,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+278,Macau,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+279,Nanakuli,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+280,Wewak,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+281,Herveo,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+282,Chokurdakh,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+283,Esmeraldas,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+284,Chicama,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+285,Goundam,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+286,Bambous Virieux,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+287,Tingrela,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+288,Waitara,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+289,Lucapa,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+290,Mangan,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+291,Ilhabela,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+292,Clarksville,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+293,Bayshore Gardens,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+294,Plattsburgh,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+295,Bethanien,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+296,Lebanon,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+297,Elko,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+298,Tilichiki,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+299,Mozarlandia,RU,71.6872,128.8694,1.6,97,93,3.53,overcast clouds
+300,Ahipara,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+301,Bolungarvik,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+302,La Ronge,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+303,Formosa Do Rio Preto,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+304,Nome,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+305,Kokubu,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+306,Muyezerskiy,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+307,Beirut,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+308,Vagur,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+309,Saurimo,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+310,Portland,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+311,Champerico,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+312,Ust-Omchug,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+313,Urdzhar,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+314,Himatangi,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+315,Mount Isa,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+316,Honningsvag,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+317,Petric,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+318,Hami,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+319,Saint-Augustin,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+320,Nyahururu,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+321,Santarem,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+322,Atasu,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+323,Southbridge,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+324,Olafsvik,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+325,Hannibal,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+326,Grand Gaube,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+327,Saleaula,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+328,Tambura,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+329,Margate,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+330,Sitka,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+331,Mahebourg,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+332,Tricase,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+333,Tawau,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+334,Marcona,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+335,Bayir,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+336,Beidao,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+337,Chodziez,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+338,Kirakira,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+339,Misratah,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+340,Port Hedland,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+341,Lipari,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+342,Lompoc,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+343,Kulhudhuffushi,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+344,Pimentel,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+345,Alcaniz,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+346,Mehamn,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+347,San Vicente,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+348,Nhulunbuy,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+349,Beba,NZ,-35.1667,173.1667,62.2,72,41,12.3,scattered clouds
+350,Guaruja,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+351,Maragogi,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+352,Belaya Gora,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+353,San Patricio,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+354,Ye,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+355,Sawakin,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+356,Muisne,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+357,Pundaguitan,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+358,Garm,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+359,Hilton Head Island,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+360,Omsukchan,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+361,Harrison,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+362,Bay Saint Louis,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+363,Boralday,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+364,Kenai,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+365,Gobabis,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+366,Lerwick,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+367,Port Blair,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+368,Vila Velha,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+369,Vaitupu,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+370,Broome,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+371,Encruzilhada Do Sul,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+372,Esperance,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+373,Yeppoon,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+374,Sao Joao Da Barra,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+375,Oranjemund,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+376,Armidale,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+377,Acajutla,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+378,Namie,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+379,Bafq,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+380,Okhotsk,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+381,Port Hawkesbury,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+382,Maxixe,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+383,Kadykchan,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+384,Innisfail,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+385,Vanimo,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+386,Plettenberg Bay,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+387,Nokaneng,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+388,Khasan,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+389,Chulman,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+390,Rawannawi,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+391,Labutta,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+392,Palmer,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+393,Emba,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+394,Shakawe,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+395,Noeux-Les-Mines,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+396,Kapiri Mposhi,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+397,Dingzhou,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+398,Mama,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+399,Burhar,BR,-23.9931,-46.2564,77.0,61,75,6.91,broken clouds
+400,Nanfeng,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+401,Kawalu,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+402,Samarai,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+403,Ravar,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+404,Vernon,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+405,Batsfjord,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+406,Oga,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+407,Vao,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+408,Mattawa,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+409,Flin Flon,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+410,Olinda,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+411,Lisakovsk,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+412,Lagoa,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+413,Jiuquan,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+414,Yar-Sale,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+415,Novosergiyevka,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+416,Sibu,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+417,Bozoum,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+418,Opotiki,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+419,Bolshiye Uki,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+420,Port Hardy,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+421,Port-Gentil,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+422,Hofn,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+423,Yilan,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+424,Marshall,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+425,Sept-Iles,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+426,Ballina,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+427,Half Moon Bay,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+428,Prachuap Khiri Khan,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+429,La Palma,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+430,Takoradi,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+431,Krasnaya Gorka,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+432,Kruisfontein,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+433,Ambon,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+434,Miranda,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+435,Harlingen,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+436,Kaitong,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+437,Vaitape,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+438,Algiers,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+439,Dicabisagan,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+440,Ayacucho,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+441,Rantepao,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+442,Campbell River,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+443,Middelburg,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+444,Haftoni,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+445,Ruatoria,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+446,Kununurra,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+447,Cayenne,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+448,Leh,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+449,Ambilobe,CN,23.7434,111.7959,71.74,94,100,3.42,light rain
+450,Marica,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+451,Santiago Del Estero,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+452,Lavrentiya,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+453,Moba,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+454,Padina,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+455,Toliary,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+456,Coquimbo,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+457,Auki,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+458,Villazon,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+459,Kutum,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+460,West Bay,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+461,Schroeder,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+462,Quatre Cocos,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+463,Inhambane,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+464,Sabinas Hidalgo,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+465,Meadow Lake,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+466,Palabuhanratu,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+467,Kayerkan,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+468,Vila,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+469,Tessalit,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+470,Kyenjojo,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+471,Guerrero Negro,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+472,Narsaq,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+473,Fort Saint John,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+474,Necochea,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+475,Juan De Acosta,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+476,Burkhala,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+477,Mezen,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+478,Zunyi,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+479,Umm Ruwabah,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+480,Iwaki,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+481,Ixtapa,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+482,Kormilovka,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+483,Hualmay,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+484,Bac Lieu,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+485,Kamenskoye,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+486,Trairi,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+487,Matagami,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+488,Kaeo,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+489,Granadilla De Abona,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+490,Karratha,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+491,Mahadday Weyne,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+492,Sarahan,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+493,Goderich,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+494,Pitimbu,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+495,Darhan,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+496,Ninghai,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+497,Kautokeino,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+498,Cap Malheureux,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+499,Petropavlovsk-Kamchatskiy,BR,-22.9194,-42.8186,80.01,65,40,10.36,scattered clouds
+500,Jhajjar,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+501,Baykit,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+502,Shimoda,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+503,Sungairaya,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+504,Shasta Lake,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+505,Broken Hill,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+506,Safwah,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+507,Nabire,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+508,Korem,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+509,Yulara,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+510,Conflans-Sainte-Honorine,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+511,Svetlogorsk,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+512,Kutulik,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+513,Kitgum,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+514,Yuzhno-Kurilsk,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+515,Dibaya,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+516,Piranshahr,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+517,Vestmannaeyjar,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+518,Abu Zabad,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+519,Cerrito,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+520,Brae,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+521,Lianzhou,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+522,Bima,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+523,Teguise,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+524,Monte Alegre,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+525,Rafaela,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+526,Kjopsvik,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+527,Batangafo,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+528,Arcata,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+529,Yirol,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+530,Dera Ismail Khan,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+531,Sechura,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+532,Polunochnoye,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+533,Assiniboia,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+534,Pangnirtung,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+535,Naters,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+536,Bambanglipuro,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+537,Balaipungut,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+538,Surt,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+539,Beringovskiy,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+540,Arvika,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+541,Salinopolis,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+542,Abha,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+543,Onalaska,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+544,Tautira,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+545,Chimbote,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+546,Cochrane,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+547,Kupang,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+548,Umm Lajj,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+549,Praia Da Vitoria,IN,28.6063,76.6565,93.0,18,40,5.75,haze
+550,Walvis Bay,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+551,Mana,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+552,Bodoco,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+553,Gubkinskiy,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+554,Kodigenahalli,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+555,Rio Grande,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+556,Grand Forks,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+557,Archena,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+558,Volsk,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+559,Mbengwi,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+560,Poltavka,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+561,Pangkalanbuun,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+562,Husavik,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+563,Warqla,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+564,Urumqi,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+565,Noumea,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+566,Borovoy,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+567,Barao De Melgaco,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+568,Whitehaven,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+569,Nichinan,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+570,Xining,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+571,Shirokiy,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+572,Hovd,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+573,Tarpon Springs,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+574,Colac,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+575,Jilib,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+576,Aksu,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+577,Qui Nhon,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+578,Gostovici,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+579,Cervo,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+580,Barcelos,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+581,San Quintin,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+582,Tahara,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+583,Jutai,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+584,Pao De Acucar,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+585,Kargasok,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+586,Masallatah,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+587,Cianorte,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+588,Tateyama,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+589,Vostok,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+590,Watsa,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+591,Tromso,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+592,Sahrak,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+593,Geraldton,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+594,Sherlovaya Gora,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+595,Yatou,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+596,Pyay,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+597,Nadadores,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+598,Lockhart,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+599,Bambari,NA,-22.9575,14.5053,88.0,35,0,8.99,clear sky
+600,Kingman,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+601,Botwood,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+602,Alyangula,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+603,Ojinaga,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+604,Laguna,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+605,Solnechnyy,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+606,Am Timan,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+607,Altay,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+608,Manggar,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+609,Morondava,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+610,Ostrovnoy,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+611,Bubaque,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+612,Navirai,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+613,Luderitz,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+614,San Luis,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+615,Roma,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+616,Jinchang,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+617,Bouza,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+618,Itarema,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+619,Holbeach,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+620,Alice Springs,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+621,Sung Noen,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+622,Bhongir,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+623,Kazalinsk,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+624,Kalemie,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+625,Obo,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+626,Launceston,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+627,Waterloo,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
+628,Cortez,US,35.1894,-114.053,64.4,20,1,25.32,clear sky
